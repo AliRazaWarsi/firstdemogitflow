@@ -6,3 +6,8 @@ updated second.txt
 
 
 revert changes
+
+
+
+
+changes for reset 2
