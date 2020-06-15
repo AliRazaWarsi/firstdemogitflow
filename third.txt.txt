@@ -1,3 +1,7 @@
 this is third file in dev-ali
 
 testing revert
+
+
+
+changes for reset 3
